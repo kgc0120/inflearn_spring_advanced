@@ -40,7 +40,7 @@ public class FieldLogTrace implements LogTrace {
 
     @Override
     public void exception(TraceStatus status, Exception e) {
-        complete(status, null);
+        complete(status, e);
     }
 
     private void complete(TraceStatus status, Exception e) {
