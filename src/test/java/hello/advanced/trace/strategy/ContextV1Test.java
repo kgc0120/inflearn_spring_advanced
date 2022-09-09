@@ -4,9 +4,6 @@ import hello.advanced.trace.strategy.code.strategy.ContextV1;
 import hello.advanced.trace.strategy.code.strategy.Strategy;
 import hello.advanced.trace.strategy.code.strategy.StrategyLogin1;
 import hello.advanced.trace.strategy.code.strategy.StrategyLogin2;
-import hello.advanced.trace.template.code.AbstractTemplate;
-import hello.advanced.trace.template.code.SubClassLogic1;
-import hello.advanced.trace.template.code.SubClassLogic2;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
